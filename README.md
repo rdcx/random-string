@@ -1,6 +1,6 @@
 # random-string
 Random string
 
-### usage
+## usage
 
 ./random-string.sh
